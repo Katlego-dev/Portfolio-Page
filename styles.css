@@ -7,7 +7,7 @@
   border: none;
   outline: none;
   scroll-behavior: smooth;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Nunito, sans-serif;
 }
 :root{
   --bg-color:#191f36;
@@ -16,12 +16,12 @@
   --main-color:blue;
 }
 html{
-  font-size: 62,5%;
+  font-size: 62.5%;
   overflow-x: hidden;
 }
 body{
   background:var(--bg-color);
-  color:var(--text-color)
+  color:var(--text-color);
 }
 section{
   min-height: 100vh;
@@ -63,8 +63,8 @@ section{
 }
 .home{
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
 }
 .home-content h3{
   font-size: 3.2rem;
@@ -83,5 +83,17 @@ span{
 }
 .home-img img{
   width: 25vw;
-  animation:floatImage 4s ease-in-out infinite;
+  
+  animation: floatImage 4s ease-in-out infinite;
+}
+@keyframes floatImage{
+ 0% {
+      transform: translateY(0);
+  }
+  50%{
+    transform:translateY(-2.4rem);
+  }
+  100%{
+    transform:translateY(0);
+  }
 }
