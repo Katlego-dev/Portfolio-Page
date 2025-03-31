@@ -7,13 +7,13 @@
   border: none;
   outline: none;
   scroll-behavior: smooth;
-  font-family: 'Nunito, sans-serif;
+  font-family: Arial, sans-serif;
 }
 :root{
-  --bg-color:#191f36;
+  --bg-color:#f4f4f4;
   --snd-bf-color:#262B40;
-  --text-color:#fff;
-  --main-color:blue;
+  --text-color:black;
+  --main-color:green;
 }
 html{
   font-size: 62.5%;
