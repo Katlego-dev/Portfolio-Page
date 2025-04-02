@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Katlego and I am a final year student at Boston City Campus pursuing a Diploma in Systems Development!
+My name is Katlego, and I am a final year student at Boston City Campus, pursuing a Diploma in Systems Development!
 
 - 🔭 I’m currently working on a TO DO Application!
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures!
