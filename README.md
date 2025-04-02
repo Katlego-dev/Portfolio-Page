@@ -7,4 +7,4 @@ My name is Katlego and I am a final year student at Boston City Campus pursuing 
 - 👯 I’m looking to collaborate on any project with Java, HTML, CSS and MySQL!
 - 🤔 I’m looking for help with ...
 
--->
+
