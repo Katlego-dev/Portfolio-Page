@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Katlego-dev/Katlego-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Katlego and I am a final year student at Boston City Campus pursuing a Diploma in Systems Development
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
