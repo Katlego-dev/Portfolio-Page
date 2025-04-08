@@ -147,7 +147,11 @@ span{
  background: var(--snd-bg-color);
 }
 .about-img img{
-  width:35vw;
+   width: 150px;
+  height:150px;
+  border-radius:50%;
+  object-fit:cover;
+  margin-top:50px;
 }
 .heading{
   text-align: center;
