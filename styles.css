@@ -87,8 +87,8 @@ span{
   line-height: 1.3;
 }
 .home-img img{
-  width: 200px;
-  height:200px;
+  width: 250px;
+  height:250px;
   border-radius:70%;
   object-fit:cover;
   margin-top:50px;
@@ -149,7 +149,7 @@ span{
 .about-img img{
    width: 200px;
   height:200px;
-  border-radius:50%;
+  
   object-fit:cover;
   margin-top:50px;
 }
